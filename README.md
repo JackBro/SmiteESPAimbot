@@ -13,8 +13,6 @@ Not included:
 
 Credits: x86asm, uNrEaL, Tamimego, SystemFiles, R00T88, _silencer, the1domo, K@N@VEL, TheFeckless, ccman32, poink
 
-Included in source files, credits to the original people who did massive reverse engineering work in Unreal3Engine.
-
 Modifications from typical U3E games:
 
 - ProcessEvent is not a virtual function.  Use a simple 5 BYTE JMP hook, rather than VMT hook.
