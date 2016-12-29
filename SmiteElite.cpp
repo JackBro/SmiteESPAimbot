@@ -2,9 +2,7 @@
 #pragma optimize("", off) // optimizations cause crashes for some reason
 // demo project, didn't bother with making code clean
 // wanted to finish this project in 5 days, during my winter break.  succeeeded!
-// i only implemented ESP, but the main task was generating an SDK for Smite and 
-// reverse engineering the game in order to make the SDK work
-// implementing aimbot is trivial... already have one named "ArenaMaster"
+
 
 #include <Windows.h>
 #include <stdio.h>
