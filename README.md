@@ -3,6 +3,7 @@ An ESP and Aimbot for Smite. Included is an SDK I generated &amp; reverse engine
 
 Working hacks included: 
 -ESP
+
 -Aimbot
 
 Not included:
