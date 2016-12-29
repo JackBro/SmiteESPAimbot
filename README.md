@@ -10,7 +10,7 @@ Working hacks included:
 Not included:
 -Speed hack (Modify CheatEngine to make an UCE, and Modify the hook method for speedhack, write LUA Script, and use that)
 
-Credits: x86asm, uNrEaL, Tamimego, SystemFiles, R00T88, _silencer, the1domo, K@N@VEL, poink, TheFeckless
+Credits: x86asm, uNrEaL, Tamimego, SystemFiles, R00T88, _silencer, the1domo, K@N@VEL, poink, ccman32, TheFeckless
 
 Included in source files, credits to the original people who did massive reverse engineering work in Unreal3Engine.
 
