@@ -1,0 +1,8 @@
+TODO when I update to newer smite versions
+
+Add ProcessEvent
+Update UStruct class
+Add stdio.h to Core_classes.h
+Add HackTools
+Later In Sdkheaders.h change GObjects and GNames defines & GetName and their Getters
+Change strcpy and strcat in UObject::GetFullName, make cOutBuffer 4096 & add limits to strcpy/strcat
